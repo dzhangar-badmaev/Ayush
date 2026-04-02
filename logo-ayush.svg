@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 560" role="img" aria-labelledby="title desc">
+  <title id="title">Логотип частной охранной организации АЮШ</title>
+  <desc id="desc">Монограмма в форме щита: буква Ш образует внешний контур, внутри размещены буквы А и Ю.</desc>
+  <g fill="none" stroke="#111111" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M95 78V344L250 486L405 344V78" stroke-width="28" />
+    <path d="M95 78H405" stroke-width="28" />
+    <path d="M250 78V486" stroke-width="28" />
+    <path d="M137 320L186 155L235 320" stroke-width="24" />
+    <path d="M156 255H216" stroke-width="20" />
+    <path d="M305 175V320" stroke-width="24" />
+    <circle cx="347" cy="248" r="58" stroke-width="24" />
+  </g>
+</svg>
